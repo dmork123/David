@@ -1,1 +1,1 @@
-Example of how we would reafor code in python
+Example of how we would refactor code in python
